@@ -1,0 +1,13 @@
+1. Climbing Stairs Problem
+Problem: You are climbing a staircase with n steps. You can either take 1 step or 2 steps at a time. In how many distinct ways can you climb to the top?
+
+Fibonacci Connection: This problem follows the Fibonacci sequence. The number of ways to reach the nth step is the sum of the number of ways to reach the (n-1)th step and the (n-2)th step.
+
+2. Fibonacci Heap (for Priority Queues)
+Problem: Fibonacci Heaps are used to improve the time complexity of Dijkstra's and Prim's algorithms for shortest paths and minimum spanning trees.
+
+Fibonacci Connection: Fibonacci heaps use the Fibonacci sequence's structural properties for efficient heap operations like insertion, find-minimum, decrease-key, and merge.
+3. Dynamic Programming – Tiling Problem
+Problem: Given a 2 x n board and tiles of size 2 x 1, find the number of ways to tile the board using these tiles.
+
+Fibonacci Connection: The problem can be solved by breaking it down recursively. At each step, you either place a vertical tile or two horizontal tiles. The number of ways to tile a 2 x n board is the (n+1)th Fibonacci number.
