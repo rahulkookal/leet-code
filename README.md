@@ -1,48 +1,44 @@
 # LeetCode Problems
 
-Welcome to my repository for solving **LeetCode problems**! This repository contains solutions to various LeetCode problems categorized by topic, difficulty, and problem number.
+This repository contains my solutions to **LeetCode problems**, organized into folders by problem heading. Each folder includes:
+- `question.txt`: A text file containing the problem description.
+- `answer.js`: A JavaScript file containing the solution to the problem.
 
 ---
 
 ## 📚 Table of Contents
 
 - [Introduction](#introduction)
-- [Structure](#structure)
-- [Solutions](#solutions)
-  - [Easy](#easy)
-  - [Medium](#medium)
-  - [Hard](#hard)
-- [How to Contribute](#how-to-contribute)
+- [Folder Structure](#folder-structure)
+- [Problem List](#problem-list)
+- [How to Use](#how-to-use)
+- [Contribute](#contribute)
 - [License](#license)
 
 ---
 
 ## 📝 Introduction
 
-This repository is a collection of my solutions to problems on [LeetCode](https://leetcode.com/). Each solution includes:
-- The problem statement (linked to LeetCode)
-- My approach and explanations (where applicable)
-- Clean, well-documented code.
+This repository is a collection of my solutions to **LeetCode problems**. Each problem is organized into its own folder with the problem description and solution for better readability and accessibility.
 
 ---
 
-## 📂 Structure
+## 📂 Folder Structure
 
-The repository is organized as follows:
+The repository is structured as follows:
 
 ```plaintext
 LeetCode-Problems/
+├── Two Sum/
+│   ├── question.txt
+│   ├── answer.js
 │
-├── Easy/
-│   ├── problem_number_problem_name.js
-│   ├── ...
+├── Add Two Numbers/
+│   ├── question.txt
+│   ├── answer.js
 │
-├── Medium/
-│   ├── problem_number_problem_name.js
-│   ├── ...
-│
-├── Hard/
-│   ├── problem_number_problem_name.js
-│   ├── ...
+├── Longest Substring Without Repeating Characters/
+│   ├── question.txt
+│   ├── answer.js
 │
 └── README.md
