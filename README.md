@@ -42,3 +42,14 @@ LeetCode-Problems/
 │   ├── answer.js
 │
 └── README.md
+
+## 🔢 Problem List
+
+Problem #	Problem Title	Difficulty	Folder Link
+1	Two Sum	Easy	Two Sum
+2	Add Two Numbers	Medium	Add Two Numbers
+3	Longest Substring Without Repeating Characters	Medium	Longest Substring Without Repeating Characters
+4	Median of Two Sorted Arrays	Hard	Median of Two Sorted Arrays
+5	Longest Palindromic Substring	Medium	Longest Palindromic Substring
+...	...	...	...
+
